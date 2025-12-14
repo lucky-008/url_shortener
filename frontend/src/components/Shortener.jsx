@@ -127,7 +127,15 @@ const styles = {
     wordBreak: "break-all",
     fontSize: "14px",
   },
-  
+  copyBtn: {
+    padding: "6px 10px",
+    borderRadius: "8px",
+    border: "none",
+    background: "#764ba2",
+    color: "white",
+    cursor: "pointer",
+    fontSize: "14px",
+  },
 };
 
 export default Shortener;
